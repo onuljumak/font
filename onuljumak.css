@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Onuljumak';
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+    src: url('Onuljumak-Regular.woff2') format('woff2'),
+         url('Onuljumak-Regular') format('woff'),
+         url('Onuljumak-Regular') format('truetype');
+  }
